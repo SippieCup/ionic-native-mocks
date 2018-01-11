@@ -1,4 +1,4 @@
-import { Flashlight } from '@ionic-native/flashlight';
+import { Flashlight } from '@ionic-native/flashlight/ngx';
 
 export class FlashlightMocks extends Flashlight {
     /**

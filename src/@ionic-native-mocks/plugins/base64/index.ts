@@ -1,4 +1,4 @@
-import { Base64 } from '@ionic-native/base64';
+import { Base64 } from '@ionic-native/base64/ngx';
 
 export class Base64Mock extends Base64 {
     /**

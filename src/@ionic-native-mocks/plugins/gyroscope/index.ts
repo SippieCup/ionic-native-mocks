@@ -1,4 +1,4 @@
-import { Gyroscope } from '@ionic-native/gyroscope';
+import { Gyroscope } from '@ionic-native/gyroscope/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 /**

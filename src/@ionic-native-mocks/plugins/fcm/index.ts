@@ -1,4 +1,4 @@
-import { FCM } from '@ionic-native/fcm';
+import { FCM } from '@ionic-native/fcm/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

@@ -1,4 +1,4 @@
-import { EstimoteBeacons } from '@ionic-native/estimote-beacons';
+import { EstimoteBeacons } from '@ionic-native/estimote-beacons/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

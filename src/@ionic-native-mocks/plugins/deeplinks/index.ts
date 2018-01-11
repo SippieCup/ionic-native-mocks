@@ -1,4 +1,4 @@
-import { Deeplinks } from '@ionic-native/deeplinks';
+import { Deeplinks } from '@ionic-native/deeplinks/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

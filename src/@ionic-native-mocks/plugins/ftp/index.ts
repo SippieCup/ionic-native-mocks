@@ -1,4 +1,4 @@
-import { FTP } from '@ionic-native/ftp';
+import { FTP } from '@ionic-native/ftp/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

@@ -1,4 +1,4 @@
-import { Alipay } from '@ionic-native/alipay';
+import { Alipay } from '@ionic-native/alipay/ngx';
 
 export interface AlipayOrder {
     /**

@@ -1,4 +1,4 @@
-import { BrowserTab } from '@ionic-native/browser-tab';
+import { BrowserTab } from '@ionic-native/browser-tab/ngx';
 
 export class BrowserTabMock extends BrowserTab {
     /**

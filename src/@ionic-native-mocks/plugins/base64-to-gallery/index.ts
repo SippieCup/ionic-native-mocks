@@ -1,4 +1,4 @@
-import { Base64ToGallery } from '@ionic-native/base64-to-gallery';
+import { Base64ToGallery } from '@ionic-native/base64-to-gallery/ngx';
 
 export class Base64ToGalleryMock extends Base64ToGallery {
     /**

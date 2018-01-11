@@ -1,4 +1,4 @@
-import { Market } from '@ionic-native/market';
+import { Market } from '@ionic-native/market/ngx';
 
 export class MarketMock extends Market {
     /**

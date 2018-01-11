@@ -1,4 +1,4 @@
-import { Rollbar } from '@ionic-native/rollbar';
+import { Rollbar } from '@ionic-native/rollbar/ngx';
 
 export class RollbarMock extends Rollbar {
     /**

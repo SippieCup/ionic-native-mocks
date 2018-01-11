@@ -1,4 +1,4 @@
-import { LocalNotifications } from '@ionic-native/local-notifications';
+import { LocalNotifications } from '@ionic-native/local-notifications/ngx';
 
 export interface ILocalNotification {
     /**

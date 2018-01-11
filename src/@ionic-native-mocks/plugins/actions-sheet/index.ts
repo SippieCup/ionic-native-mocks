@@ -1,4 +1,4 @@
-import { ActionSheet } from '@ionic-native/action-sheet';
+import { ActionSheet } from '@ionic-native/action-sheet/ngx';
 
 export interface ActionSheetOptions {
     /**

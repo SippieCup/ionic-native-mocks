@@ -1,4 +1,4 @@
-import { DBMeter } from '@ionic-native/db-meter';
+import { DBMeter } from '@ionic-native/db-meter/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

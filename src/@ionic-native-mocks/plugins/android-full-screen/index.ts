@@ -1,4 +1,4 @@
-import { AndroidFullScreen } from '@ionic-native/android-full-screen';
+import { AndroidFullScreen } from '@ionic-native/android-full-screen/ngx';
 
 export class AndroidFullScreenMock extends AndroidFullScreen {
     /**

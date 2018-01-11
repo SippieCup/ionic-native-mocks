@@ -1,4 +1,4 @@
-import { NativeRingtones } from '@ionic-native/native-ringtones';
+import { NativeRingtones } from '@ionic-native/native-ringtones/ngx';
 
 export class NativeRingtonesMock extends NativeRingtones {
     /**

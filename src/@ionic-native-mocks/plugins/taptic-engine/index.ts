@@ -1,4 +1,4 @@
-import { TapticEngine } from '@ionic-native/taptic-engine';
+import { TapticEngine } from '@ionic-native/taptic-engine/ngx';
 
 export class TapticEngineMock extends TapticEngine {
     /**

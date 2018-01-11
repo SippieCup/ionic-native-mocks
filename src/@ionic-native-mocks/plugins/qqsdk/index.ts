@@ -1,4 +1,4 @@
-import { QQSDK } from '@ionic-native/qqsdk';
+import { QQSDK } from '@ionic-native/qqsdk/ngx';
 export interface QQShareOptions {
     /**
      * The clinet type, QQ or TIM

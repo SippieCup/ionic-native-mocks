@@ -1,5 +1,5 @@
 
-import { Broadcaster } from '@ionic-native/broadcaster';
+import { Broadcaster } from '@ionic-native/broadcaster/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

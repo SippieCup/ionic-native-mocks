@@ -1,4 +1,4 @@
-import { AppRate } from '@ionic-native/app-rate';
+import { AppRate } from '@ionic-native/app-rate/ngx';
 export interface AppRatePreferences {
     /**
      * Custom BCP 47 language tag

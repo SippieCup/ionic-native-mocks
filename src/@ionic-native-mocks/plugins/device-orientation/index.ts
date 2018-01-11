@@ -1,4 +1,4 @@
-import { DeviceOrientation } from '@ionic-native/device-orientation';
+import { DeviceOrientation } from '@ionic-native/device-orientation/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

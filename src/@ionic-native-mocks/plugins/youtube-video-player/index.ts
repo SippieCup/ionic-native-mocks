@@ -1,4 +1,4 @@
-import { YoutubeVideoPlayer } from '@ionic-native/youtube-video-player';
+import { YoutubeVideoPlayer } from '@ionic-native/youtube-video-player/ngx';
 
 export class YoutubeVideoPlayerMock extends YoutubeVideoPlayer {
     /**

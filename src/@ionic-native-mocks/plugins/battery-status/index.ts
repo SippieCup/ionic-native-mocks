@@ -1,4 +1,4 @@
-import { BatteryStatus } from '@ionic-native/battery-status';
+import { BatteryStatus } from '@ionic-native/battery-status/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

@@ -1,4 +1,4 @@
-import { Network } from '@ionic-native/network';
+import { Network } from '@ionic-native/network/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 import 'rxjs/add/observable/merge';

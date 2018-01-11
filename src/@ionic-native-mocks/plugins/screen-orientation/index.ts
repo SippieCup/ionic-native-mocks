@@ -1,4 +1,4 @@
-import { ScreenOrientation } from '@ionic-native/screen-orientation';
+import { ScreenOrientation } from '@ionic-native/screen-orientation/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

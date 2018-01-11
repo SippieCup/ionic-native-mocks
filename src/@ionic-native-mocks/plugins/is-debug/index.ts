@@ -1,4 +1,4 @@
-import { IsDebug } from '@ionic-native/is-debug';
+import { IsDebug } from '@ionic-native/is-debug/ngx';
 
 export class IsDebugMock extends IsDebug {
     /**

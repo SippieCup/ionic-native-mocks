@@ -1,4 +1,4 @@
-import { Mixpanel, MixpanelPeople } from '@ionic-native/mixpanel';
+import { Mixpanel, MixpanelPeople } from '@ionic-native/mixpanel/ngx';
 
 export class MixpanelMock extends Mixpanel {
     /**

@@ -1,4 +1,4 @@
-import { NativeAudio } from '@ionic-native/native-audio';
+import { NativeAudio } from '@ionic-native/native-audio/ngx';
 
 export class NativeAudioMock extends NativeAudio {
     /**

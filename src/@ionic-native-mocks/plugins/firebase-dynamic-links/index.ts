@@ -1,4 +1,4 @@
-import { FirebaseDynamicLinks } from '@ionic-native/firebase-dynamic-links';
+import { FirebaseDynamicLinks } from '@ionic-native/firebase-dynamic-links/ngx';
 
 export interface DynamicLinksOptions {
     title: string;

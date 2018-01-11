@@ -1,4 +1,4 @@
-import { Instagram } from '@ionic-native/instagram';
+import { Instagram } from '@ionic-native/instagram/ngx';
 
 export class InstagramMock extends Instagram {
     /**

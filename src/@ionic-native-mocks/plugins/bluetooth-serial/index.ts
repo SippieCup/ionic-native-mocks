@@ -1,4 +1,4 @@
-import { BluetoothSerial } from '@ionic-native/bluetooth-serial';
+import { BluetoothSerial } from '@ionic-native/bluetooth-serial/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

@@ -1,4 +1,4 @@
-import { DeviceFeedback } from '@ionic-native/device-feedback';
+import { DeviceFeedback } from '@ionic-native/device-feedback/ngx';
 
 export class DeviceFeedbackMock extends DeviceFeedback {
     /**

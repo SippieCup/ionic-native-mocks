@@ -1,4 +1,4 @@
-import { MusicControls } from '@ionic-native/music-controls';
+import { MusicControls } from '@ionic-native/music-controls/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

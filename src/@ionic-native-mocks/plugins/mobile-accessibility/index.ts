@@ -1,4 +1,4 @@
-import { MobileAccessibility } from '@ionic-native/mobile-accessibility';
+import { MobileAccessibility } from '@ionic-native/mobile-accessibility/ngx';
 
 export class MobileAccessibilityMock extends MobileAccessibility {
     MobileAccessibilityNotifications: {

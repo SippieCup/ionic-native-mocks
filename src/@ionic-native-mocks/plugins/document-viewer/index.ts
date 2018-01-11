@@ -1,4 +1,4 @@
-import { DocumentViewer } from '@ionic-native/document-viewer';
+import { DocumentViewer } from '@ionic-native/document-viewer/ngx';
 
 export interface DocumentViewerOptions {
     title?: string;

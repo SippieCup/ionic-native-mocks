@@ -1,4 +1,4 @@
-import { MediaCapture } from '@ionic-native/media-capture';
+import { MediaCapture } from '@ionic-native/media-capture/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

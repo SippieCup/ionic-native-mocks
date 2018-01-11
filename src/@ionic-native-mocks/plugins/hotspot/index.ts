@@ -1,4 +1,4 @@
-import { Hotspot } from '@ionic-native/hotspot';
+import { Hotspot } from '@ionic-native/hotspot/ngx';
 
 export interface HotspotConnectionInfo {
     /**

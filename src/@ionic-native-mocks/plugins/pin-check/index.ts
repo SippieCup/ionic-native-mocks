@@ -1,4 +1,4 @@
-import { PinCheck } from '@ionic-native/pin-check';
+import { PinCheck } from '@ionic-native/pin-check/ngx';
 
 export class PinCheckMock extends PinCheck {
     /**

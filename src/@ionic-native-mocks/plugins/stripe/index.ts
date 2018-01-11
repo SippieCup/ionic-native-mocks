@@ -1,4 +1,4 @@
-import { Stripe } from '@ionic-native/stripe';
+import { Stripe } from '@ionic-native/stripe/ngx';
 
 export class StripeMock extends Stripe {
     /**

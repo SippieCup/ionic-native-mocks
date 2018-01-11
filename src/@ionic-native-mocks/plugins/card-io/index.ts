@@ -1,4 +1,4 @@
-import { CardIO } from '@ionic-native/card-io';
+import { CardIO } from '@ionic-native/card-io/ngx';
 
 export interface CardIOOptions {
     /**

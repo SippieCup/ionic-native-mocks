@@ -1,4 +1,4 @@
-import { PayPal } from '@ionic-native/paypal';
+import { PayPal } from '@ionic-native/paypal/ngx';
 
 export class PayPalMock extends PayPal {
     /**

@@ -1,4 +1,4 @@
-import { NativeGeocoder } from '@ionic-native/native-geocoder';
+import { NativeGeocoder } from '@ionic-native/native-geocoder/ngx';
 
 export class NativeGeocoderMock extends NativeGeocoder {
     /**

@@ -1,4 +1,4 @@
-import { Geofence } from '@ionic-native/geofence';
+import { Geofence } from '@ionic-native/geofence/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

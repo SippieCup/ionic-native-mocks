@@ -1,4 +1,4 @@
-import { QRScanner } from '@ionic-native/qr-scanner';
+import { QRScanner } from '@ionic-native/qr-scanner/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

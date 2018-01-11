@@ -1,4 +1,4 @@
-import { SQLite } from '@ionic-native/sqlite';
+import { SQLite } from '@ionic-native/sqlite/ngx';
 
 export interface SQLiteDatabaseConfig {
     /**

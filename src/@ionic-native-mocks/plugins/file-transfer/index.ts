@@ -1,4 +1,4 @@
-import { FileTransfer, FileTransferObject } from '@ionic-native/file-transfer';
+import { FileTransfer, FileTransferObject } from '@ionic-native/file-transfer/ngx';
 
 export interface FileUploadOptions {
     /**

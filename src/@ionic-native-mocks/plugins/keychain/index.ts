@@ -1,4 +1,4 @@
-import { Keychain } from '@ionic-native/keychain';
+import { Keychain } from '@ionic-native/keychain/ngx';
 
 export class KeychainMock extends Keychain {
     /**

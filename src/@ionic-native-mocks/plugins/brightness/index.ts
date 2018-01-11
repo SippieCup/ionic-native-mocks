@@ -1,5 +1,5 @@
 
-import { Brightness } from '@ionic-native/brightness';
+import { Brightness } from '@ionic-native/brightness/ngx';
 
 export class BrightnesMock extends Brightness {
     /**

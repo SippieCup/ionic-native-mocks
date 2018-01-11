@@ -1,4 +1,4 @@
-import { Autostart } from '@ionic-native/autostart';
+import { Autostart } from '@ionic-native/autostart/ngx';
 
 export class AutostartMock extends Autostart {
     /**

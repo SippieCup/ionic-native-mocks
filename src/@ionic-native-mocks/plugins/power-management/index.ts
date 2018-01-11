@@ -1,4 +1,4 @@
-import { PowerManagement } from '@ionic-native/power-management';
+import { PowerManagement } from '@ionic-native/power-management/ngx';
 
 export class PowerManagementMock extends PowerManagement {
     /**

@@ -1,4 +1,4 @@
-import { AdMobPro } from '@ionic-native/admob-pro';
+import { AdMobPro } from '@ionic-native/admob-pro/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

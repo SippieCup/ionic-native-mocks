@@ -1,4 +1,4 @@
-import { SocialSharing } from '@ionic-native/social-sharing';
+import { SocialSharing } from '@ionic-native/social-sharing/ngx';
 
 export class SocialSharingMock extends SocialSharing {
     /**

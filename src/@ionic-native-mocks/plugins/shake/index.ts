@@ -1,4 +1,4 @@
-import { Shake } from '@ionic-native/shake';
+import { Shake } from '@ionic-native/shake/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

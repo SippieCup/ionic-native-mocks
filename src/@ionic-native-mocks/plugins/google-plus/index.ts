@@ -1,4 +1,4 @@
-import { GooglePlus } from '@ionic-native/google-plus';
+import { GooglePlus } from '@ionic-native/google-plus/ngx';
 
 export class GooglePlusMock extends GooglePlus {
     /**

@@ -1,4 +1,4 @@
-import { Screenshot } from '@ionic-native/screenshot';
+import { Screenshot } from '@ionic-native/screenshot/ngx';
 
 export class ScreenshotMock extends Screenshot {
     /**

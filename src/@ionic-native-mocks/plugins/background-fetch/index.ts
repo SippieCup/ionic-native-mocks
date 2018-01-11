@@ -1,5 +1,5 @@
 
-import { BackgroundFetch } from '@ionic-native/background-fetch';
+import { BackgroundFetch } from '@ionic-native/background-fetch/ngx';
 export interface BackgroundFetchConfig {
     /**
      * Set true to cease background-fetch from operating after user "closes" the app. Defaults to true.

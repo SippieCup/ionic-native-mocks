@@ -1,4 +1,4 @@
-import { BackgroundMode } from '@ionic-native/background-mode';
+import { BackgroundMode } from '@ionic-native/background-mode/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

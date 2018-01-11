@@ -1,4 +1,4 @@
-import { AndroidFingerprintAuth } from '@ionic-native/android-fingerprint-auth';
+import { AndroidFingerprintAuth } from '@ionic-native/android-fingerprint-auth/ngx';
 export interface AFAAuthOptions {
     /**
      * Required

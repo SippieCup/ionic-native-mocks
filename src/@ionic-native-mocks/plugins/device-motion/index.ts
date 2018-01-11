@@ -1,4 +1,4 @@
-import { DeviceMotion } from '@ionic-native/device-motion';
+import { DeviceMotion } from '@ionic-native/device-motion/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

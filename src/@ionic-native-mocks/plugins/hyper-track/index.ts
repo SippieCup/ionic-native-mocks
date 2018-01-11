@@ -1,4 +1,4 @@
-import { HyperTrack } from '@ionic-native/hyper-track';
+import { HyperTrack } from '@ionic-native/hyper-track/ngx';
 
 export class HyperTrackMock extends HyperTrack {
     /**

@@ -1,4 +1,4 @@
-import { AppVersion } from '@ionic-native/app-version';
+import { AppVersion } from '@ionic-native/app-version/ngx';
 
 export class AppVersionMock extends AppVersion {
     /**

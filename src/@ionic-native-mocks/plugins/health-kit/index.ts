@@ -1,4 +1,4 @@
-import { HealthKit } from '@ionic-native/health-kit';
+import { HealthKit } from '@ionic-native/health-kit/ngx';
 
 export interface HealthKitOptions {
     /**

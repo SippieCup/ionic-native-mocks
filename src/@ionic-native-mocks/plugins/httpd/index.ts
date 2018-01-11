@@ -1,4 +1,4 @@
-import { Httpd } from '@ionic-native/httpd';
+import { Httpd } from '@ionic-native/httpd/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

@@ -1,4 +1,4 @@
-import { CameraPreview } from '@ionic-native/camera-preview';
+import { CameraPreview } from '@ionic-native/camera-preview/ngx';
 
 export interface CameraPreviewDimensions {
     /** The width of the camera preview, default to window.screen.width */

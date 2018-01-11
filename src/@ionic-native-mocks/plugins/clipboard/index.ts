@@ -1,4 +1,4 @@
-import { Clipboard } from '@ionic-native/clipboard';
+import { Clipboard } from '@ionic-native/clipboard/ngx';
 
 export class ClipboardMock extends Clipboard {
     /**

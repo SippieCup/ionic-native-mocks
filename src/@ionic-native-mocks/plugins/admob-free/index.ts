@@ -1,4 +1,4 @@
-import { AdMobFree } from '@ionic-native/admob-free';
+import { AdMobFree } from '@ionic-native/admob-free/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 import 'rxjs/add/observable/fromEvent';

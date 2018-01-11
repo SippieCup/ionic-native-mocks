@@ -1,4 +1,4 @@
-import { Printer } from '@ionic-native/printer';
+import { Printer } from '@ionic-native/printer/ngx';
 export interface PrintOptions {
     /**
      * The name of the print job and the document

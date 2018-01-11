@@ -1,4 +1,4 @@
-import { ThemeableBrowser, ThemeableBrowserObject } from '@ionic-native/themeable-browser';
+import { ThemeableBrowser, ThemeableBrowserObject } from '@ionic-native/themeable-browser/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

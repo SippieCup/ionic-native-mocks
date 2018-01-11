@@ -1,4 +1,4 @@
-import { Backlight } from '@ionic-native/backlight';
+import { Backlight } from '@ionic-native/backlight/ngx';
 
 export class BacklightMock extends Backlight {
     /**

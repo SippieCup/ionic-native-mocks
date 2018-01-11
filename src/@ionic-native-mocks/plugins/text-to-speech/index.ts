@@ -1,4 +1,4 @@
-import { TextToSpeech } from '@ionic-native/text-to-speech';
+import { TextToSpeech } from '@ionic-native/text-to-speech/ngx';
 
 export interface TTSOptions {
     /** text to speak */

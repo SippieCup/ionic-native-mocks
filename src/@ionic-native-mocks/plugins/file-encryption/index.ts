@@ -1,4 +1,4 @@
-import { FileEncryption } from '@ionic-native/file-encryption';
+import { FileEncryption } from '@ionic-native/file-encryption/ngx';
 
 export class FileEncryptionMock extends FileEncryption {
     /**

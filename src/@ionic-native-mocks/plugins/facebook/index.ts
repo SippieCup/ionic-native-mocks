@@ -1,4 +1,4 @@
-import { Facebook } from '@ionic-native/facebook';
+import { Facebook } from '@ionic-native/facebook/ngx';
 
 export interface FacebookLoginResponse {
     status: string;

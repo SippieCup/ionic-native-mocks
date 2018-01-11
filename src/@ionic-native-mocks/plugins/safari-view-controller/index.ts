@@ -1,4 +1,4 @@
-import { SafariViewController } from '@ionic-native/safari-view-controller';
+import { SafariViewController } from '@ionic-native/safari-view-controller/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

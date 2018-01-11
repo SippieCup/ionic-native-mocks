@@ -1,5 +1,5 @@
 
-import { Health } from '@ionic-native/health';
+import { Health } from '@ionic-native/health/ngx';
 /**
  * @hidden
  */

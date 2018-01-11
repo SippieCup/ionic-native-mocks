@@ -1,4 +1,4 @@
-import { Dialogs } from '@ionic-native/dialogs';
+import { Dialogs } from '@ionic-native/dialogs/ngx';
 
 export interface DialogsPromptCallback {
     /**

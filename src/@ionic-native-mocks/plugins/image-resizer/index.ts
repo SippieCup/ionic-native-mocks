@@ -1,4 +1,4 @@
-import { ImageResizer } from '@ionic-native/image-resizer';
+import { ImageResizer } from '@ionic-native/image-resizer/ngx';
 
 export interface ImageResizerOptions {
     /**

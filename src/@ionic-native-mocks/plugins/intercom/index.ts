@@ -1,4 +1,4 @@
-import { Intercom } from '@ionic-native/intercom';
+import { Intercom } from '@ionic-native/intercom/ngx';
 
 export class IntercomMock extends Intercom {
     /**

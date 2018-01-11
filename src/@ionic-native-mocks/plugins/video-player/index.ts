@@ -1,4 +1,4 @@
-import { VideoPlayer } from '@ionic-native/video-player';
+import { VideoPlayer } from '@ionic-native/video-player/ngx';
 /**
  * Options for the video playback using the `play` function.
  */

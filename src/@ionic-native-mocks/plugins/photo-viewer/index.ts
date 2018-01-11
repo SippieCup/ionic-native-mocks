@@ -1,4 +1,4 @@
-import { PhotoViewer } from '@ionic-native/photo-viewer';
+import { PhotoViewer } from '@ionic-native/photo-viewer/ngx';
 
 export class PhotoViewerMock extends PhotoViewer {
     /**

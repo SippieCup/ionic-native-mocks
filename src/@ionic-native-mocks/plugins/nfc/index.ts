@@ -1,4 +1,4 @@
-import { NFC } from '@ionic-native/nfc';
+import { NFC } from '@ionic-native/nfc/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

@@ -1,5 +1,5 @@
 
-import { CallNumber } from '@ionic-native/call-number';
+import { CallNumber } from '@ionic-native/call-number/ngx';
 
 export class CallNumberMock extends CallNumber {
     /**

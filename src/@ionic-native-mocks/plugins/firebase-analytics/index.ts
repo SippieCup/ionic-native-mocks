@@ -1,4 +1,4 @@
-import { FirebaseAnalytics } from '@ionic-native/firebase-analytics';
+import { FirebaseAnalytics } from '@ionic-native/firebase-analytics/ngx';
 
 export class FirebaseAnalyticsMocks extends FirebaseAnalytics {
     /**

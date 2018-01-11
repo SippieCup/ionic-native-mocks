@@ -1,4 +1,4 @@
-import { ImagePicker } from '@ionic-native/image-picker';
+import { ImagePicker } from '@ionic-native/image-picker/ngx';
 
 export interface ImagePickerOptions {
     /**

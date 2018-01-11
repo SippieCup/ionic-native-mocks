@@ -1,4 +1,4 @@
-import { IntelSecurity, IntelSecurityData, IntelSecurityStorage } from '@ionic-native/intel-security';
+import { IntelSecurity, IntelSecurityData, IntelSecurityStorage } from '@ionic-native/intel-security/ngx';
 
 export interface IntelSecurityDataOptions {
     /** Non-empty string. **/

@@ -1,4 +1,4 @@
-import { CodePush } from '@ionic-native/code-push';
+import { CodePush } from '@ionic-native/code-push/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

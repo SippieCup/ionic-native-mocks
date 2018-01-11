@@ -1,4 +1,4 @@
-import { Serial } from '@ionic-native/serial';
+import { Serial } from '@ionic-native/serial/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

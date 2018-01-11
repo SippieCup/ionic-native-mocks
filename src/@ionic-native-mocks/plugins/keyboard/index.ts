@@ -1,4 +1,4 @@
-import { Keyboard } from '@ionic-native/keyboard';
+import { Keyboard } from '@ionic-native/keyboard/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

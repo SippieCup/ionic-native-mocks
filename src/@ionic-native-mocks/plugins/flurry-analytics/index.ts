@@ -1,4 +1,4 @@
-import { FlurryAnalytics, FlurryAnalyticsObject } from '@ionic-native/flurry-analytics';
+import { FlurryAnalytics, FlurryAnalyticsObject } from '@ionic-native/flurry-analytics/ngx';
 
 export interface FlurryAnalyticsOptions {
     /** Flurry API key is required */

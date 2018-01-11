@@ -1,4 +1,4 @@
-import { File } from '@ionic-native/file';
+import { File } from '@ionic-native/file/ngx';
 
 export interface IFile extends Blob {
     /**

@@ -1,4 +1,4 @@
-import { Appodeal } from '@ionic-native/appodeal';
+import { Appodeal } from '@ionic-native/appodeal/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

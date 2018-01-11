@@ -1,4 +1,4 @@
-import { DeviceAccounts } from '@ionic-native/device-accounts';
+import { DeviceAccounts } from '@ionic-native/device-accounts/ngx';
 
 export class DeviceAccountsMocks extends DeviceAccounts {
     /**

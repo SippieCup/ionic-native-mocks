@@ -1,4 +1,4 @@
-import { Vibration} from '@ionic-native/vibration';
+import { Vibration} from '@ionic-native/vibration/ngx';
 
 export class VibrationMock extends Vibration {
      /**

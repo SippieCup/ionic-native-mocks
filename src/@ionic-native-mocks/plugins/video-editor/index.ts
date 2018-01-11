@@ -1,4 +1,4 @@
-import { VideoEditor } from '@ionic-native/video-editor';
+import { VideoEditor } from '@ionic-native/video-editor/ngx';
 
 export interface TranscodeOptions {
     /** The path to the video on the device. */

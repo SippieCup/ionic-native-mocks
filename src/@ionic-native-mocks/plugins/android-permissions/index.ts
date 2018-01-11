@@ -1,5 +1,5 @@
 
-import { AndroidPermissions } from '@ionic-native/android-permissions';
+import { AndroidPermissions } from '@ionic-native/android-permissions/ngx';
 
 export class AndroidPermissionsMock extends AndroidPermissions {
     PERMISSION: any;

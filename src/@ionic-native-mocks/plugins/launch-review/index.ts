@@ -1,4 +1,4 @@
-import { LaunchReview } from '@ionic-native/launch-review';
+import { LaunchReview } from '@ionic-native/launch-review/ngx';
 
 export class LaunchReviewMock extends LaunchReview {
     /**

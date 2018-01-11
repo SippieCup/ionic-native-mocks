@@ -1,4 +1,4 @@
-import { IBeacon } from '@ionic-native/ibeacon';
+import { IBeacon } from '@ionic-native/ibeacon/ngx';
 import { Observable } from 'rxjs/Observable';
 
 export interface Beacon {

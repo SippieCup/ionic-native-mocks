@@ -1,4 +1,4 @@
-import { BLE } from '@ionic-native/ble';
+import { BLE } from '@ionic-native/ble/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

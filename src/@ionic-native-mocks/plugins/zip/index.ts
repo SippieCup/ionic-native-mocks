@@ -1,4 +1,4 @@
-import { Zip } from '@ionic-native/zip';
+import { Zip } from '@ionic-native/zip/ngx';
 
 export class ZipMock extends Zip {
     /**

@@ -1,4 +1,4 @@
-import { AppPreferences } from '@ionic-native/app-preferences';
+import { AppPreferences } from '@ionic-native/app-preferences/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

@@ -1,4 +1,4 @@
-import { NativePageTransitions } from '@ionic-native/native-page-transitions';
+import { NativePageTransitions } from '@ionic-native/native-page-transitions/ngx';
 
 export interface NativeTransitionOptions {
     direction?: string;

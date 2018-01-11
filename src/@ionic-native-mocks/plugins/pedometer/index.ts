@@ -1,4 +1,4 @@
-import { Pedometer } from '@ionic-native/pedometer';
+import { Pedometer } from '@ionic-native/pedometer/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

@@ -1,4 +1,4 @@
-import { Zeroconf } from '@ionic-native/zeroconf';
+import { Zeroconf } from '@ionic-native/zeroconf/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

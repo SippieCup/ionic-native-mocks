@@ -1,5 +1,5 @@
 
-import { Crop } from '@ionic-native/crop';
+import { Crop } from '@ionic-native/crop/ngx';
 
 export class CropMock extends Crop {
     /**

@@ -1,4 +1,4 @@
-import { SpeechRecognition } from '@ionic-native/speech-recognition';
+import { SpeechRecognition } from '@ionic-native/speech-recognition/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

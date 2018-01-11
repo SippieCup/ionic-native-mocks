@@ -1,4 +1,4 @@
-import { Firebase } from '@ionic-native/firebase';
+import { Firebase } from '@ionic-native/firebase/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

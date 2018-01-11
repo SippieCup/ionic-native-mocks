@@ -1,4 +1,4 @@
-import { NavigationBar } from '@ionic-native/navigation-bar';
+import { NavigationBar } from '@ionic-native/navigation-bar/ngx';
 
 export class NavigationBarMock extends NavigationBar {
     /**

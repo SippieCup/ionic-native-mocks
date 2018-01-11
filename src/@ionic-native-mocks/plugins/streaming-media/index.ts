@@ -1,4 +1,4 @@
-import { StreamingMedia } from '@ionic-native/streaming-media';
+import { StreamingMedia } from '@ionic-native/streaming-media/ngx';
 
 export interface StreamingVideoOptions {
     successCallback?: Function;

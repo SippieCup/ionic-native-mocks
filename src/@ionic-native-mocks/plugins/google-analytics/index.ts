@@ -1,4 +1,4 @@
-import { GoogleAnalytics } from '@ionic-native/google-analytics';
+import { GoogleAnalytics } from '@ionic-native/google-analytics/ngx';
 
 export class GoogleAnalyticsMock extends GoogleAnalytics {
     /**

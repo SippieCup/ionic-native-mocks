@@ -1,4 +1,4 @@
-import { Media, MediaObject } from '@ionic-native/media';
+import { Media, MediaObject } from '@ionic-native/media/ngx';
 import { Observable } from 'rxjs/Observable';
 
 /**

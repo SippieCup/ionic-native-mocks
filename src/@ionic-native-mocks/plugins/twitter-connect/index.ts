@@ -1,4 +1,4 @@
-import { TwitterConnect } from '@ionic-native/twitter-connect';
+import { TwitterConnect } from '@ionic-native/twitter-connect/ngx';
 export interface TwitterConnectResponse {
     /**
      * Twitter Username

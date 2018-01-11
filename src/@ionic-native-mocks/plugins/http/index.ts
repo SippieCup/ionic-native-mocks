@@ -1,4 +1,4 @@
-import { HTTP } from '@ionic-native/http';
+import { HTTP } from '@ionic-native/http/ngx';
 
 export interface HTTPResponse {
     /**

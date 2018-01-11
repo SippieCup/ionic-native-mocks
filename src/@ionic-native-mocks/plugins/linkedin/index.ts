@@ -1,4 +1,4 @@
-import { LinkedIn } from '@ionic-native/linkedin';
+import { LinkedIn } from '@ionic-native/linkedin/ngx';
 
 export declare type LinkedInLoginScopes = 'r_basicprofile' | 'r_emailaddress' | 'rw_company_admin' | 'w_share';
 

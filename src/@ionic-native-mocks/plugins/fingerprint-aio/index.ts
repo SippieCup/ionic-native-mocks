@@ -1,4 +1,4 @@
-import { FingerprintAIO } from '@ionic-native/fingerprint-aio';
+import { FingerprintAIO } from '@ionic-native/fingerprint-aio/ngx';
 export interface FingerprintOptions {
     /**
      * Key for platform keychain

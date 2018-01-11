@@ -1,4 +1,4 @@
-import { Insomnia } from '@ionic-native/insomnia';
+import { Insomnia } from '@ionic-native/insomnia/ngx';
 
 export class InsomniaMock extends Insomnia {
     /**

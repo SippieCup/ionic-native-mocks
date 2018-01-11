@@ -1,4 +1,4 @@
-import { WebIntent } from '@ionic-native/web-intent';
+import { WebIntent } from '@ionic-native/web-intent/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

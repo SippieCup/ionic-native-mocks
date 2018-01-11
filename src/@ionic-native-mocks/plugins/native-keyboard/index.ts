@@ -1,4 +1,4 @@
-import { NativeKeyboard } from '@ionic-native/native-keyboard';
+import { NativeKeyboard } from '@ionic-native/native-keyboard/ngx';
 
 export interface NativeKeyboardOptions {
     /**

@@ -1,4 +1,4 @@
-import { SpinnerDialog } from '@ionic-native/spinner-dialog';
+import { SpinnerDialog } from '@ionic-native/spinner-dialog/ngx';
 export interface SpinnerDialogIOSOptions {
     overlayOpacity?: number;
     textColorRed?: number;

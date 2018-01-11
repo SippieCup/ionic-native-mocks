@@ -1,4 +1,4 @@
-import { InAppPurchase } from '@ionic-native/in-app-purchase';
+import { InAppPurchase } from '@ionic-native/in-app-purchase/ngx';
 
 export class InAppPurchaseMock extends InAppPurchase {
     /**

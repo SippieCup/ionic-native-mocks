@@ -1,4 +1,4 @@
-import { JinsMeme } from '@ionic-native/jins-meme';
+import { JinsMeme } from '@ionic-native/jins-meme/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

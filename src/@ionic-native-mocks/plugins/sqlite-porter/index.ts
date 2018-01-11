@@ -1,4 +1,4 @@
-import { SQLitePorter } from '@ionic-native/sqlite-porter';
+import { SQLitePorter } from '@ionic-native/sqlite-porter/ngx';
 
 export class SQLitePorterMock extends SQLitePorter {
     /**

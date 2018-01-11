@@ -1,4 +1,4 @@
-import { UserAgent } from '@ionic-native/user-agent';
+import { UserAgent } from '@ionic-native/user-agent/ngx';
 
 export class UserAgentMock extends UserAgent {
     /**

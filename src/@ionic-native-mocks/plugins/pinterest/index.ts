@@ -1,4 +1,4 @@
-import { Pinterest } from '@ionic-native/pinterest';
+import { Pinterest } from '@ionic-native/pinterest/ngx';
 
 export interface PinterestUser {
     /**

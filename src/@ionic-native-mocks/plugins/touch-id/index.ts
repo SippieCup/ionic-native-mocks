@@ -1,4 +1,4 @@
-import { TouchID } from '@ionic-native/touch-id';
+import { TouchID } from '@ionic-native/touch-id/ngx';
 
 export class TouchIDMock extends TouchID {
     /**

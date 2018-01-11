@@ -1,4 +1,4 @@
-import { ZBar } from '@ionic-native/zbar';
+import { ZBar } from '@ionic-native/zbar/ngx';
 
 export interface ZBarOptions {
     /**

@@ -1,4 +1,4 @@
-import { Stepcounter } from '@ionic-native/stepcounter';
+import { Stepcounter } from '@ionic-native/stepcounter/ngx';
 
 export class StepcounterMock extends Stepcounter {
     /**

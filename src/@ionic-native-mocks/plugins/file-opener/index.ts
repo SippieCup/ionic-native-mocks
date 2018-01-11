@@ -1,4 +1,4 @@
-import { FileOpener } from '@ionic-native/file-opener';
+import { FileOpener } from '@ionic-native/file-opener/ngx';
 
 export class FileOpenerMock extends FileOpener {
     /**

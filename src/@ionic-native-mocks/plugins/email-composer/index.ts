@@ -1,4 +1,4 @@
-import { EmailComposer } from '@ionic-native/email-composer';
+import { EmailComposer } from '@ionic-native/email-composer/ngx';
 
 export interface EmailComposerOptions {
     app?: string;

@@ -1,4 +1,4 @@
-import { LaunchNavigator } from '@ionic-native/launch-navigator';
+import { LaunchNavigator } from '@ionic-native/launch-navigator/ngx';
 
 export interface LaunchNavigatorOptions {
     /**

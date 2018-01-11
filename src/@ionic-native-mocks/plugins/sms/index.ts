@@ -1,4 +1,4 @@
-import { SMS } from '@ionic-native/sms';
+import { SMS } from '@ionic-native/sms/ngx';
 /**
  * Options for sending an SMS
  */

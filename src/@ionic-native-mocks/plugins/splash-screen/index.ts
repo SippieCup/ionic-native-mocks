@@ -1,4 +1,4 @@
-import { SplashScreen } from '@ionic-native/splash-screen';
+import { SplashScreen } from '@ionic-native/splash-screen/ngx';
 
 export class SplashScreenMock extends SplashScreen {
 /**

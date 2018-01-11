@@ -1,4 +1,4 @@
-import { Toast } from '@ionic-native/toast';
+import { Toast } from '@ionic-native/toast/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

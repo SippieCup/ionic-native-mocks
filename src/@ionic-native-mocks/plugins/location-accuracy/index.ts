@@ -1,4 +1,4 @@
-import { LocationAccuracy } from '@ionic-native/location-accuracy';
+import { LocationAccuracy } from '@ionic-native/location-accuracy/ngx';
 
 export class LocationAccuracyMock extends LocationAccuracy {
     /**

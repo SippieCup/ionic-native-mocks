@@ -1,4 +1,4 @@
-import { Push, PushObject } from '@ionic-native/push';
+import { Push, PushObject } from '@ionic-native/push/ngx';
 
 export declare type EventResponse = RegistrationEventResponse & NotificationEventResponse & Error;
 export interface RegistrationEventResponse {

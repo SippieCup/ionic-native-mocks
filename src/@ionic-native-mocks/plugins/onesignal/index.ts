@@ -1,4 +1,4 @@
-import { OneSignal } from '@ionic-native/onesignal';
+import { OneSignal } from '@ionic-native/onesignal/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

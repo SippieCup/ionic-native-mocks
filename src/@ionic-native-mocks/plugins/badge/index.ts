@@ -1,4 +1,4 @@
-import { Badge } from '@ionic-native/badge';
+import { Badge } from '@ionic-native/badge/ngx';
 
 export class BadgeMOck extends Badge {
     /**

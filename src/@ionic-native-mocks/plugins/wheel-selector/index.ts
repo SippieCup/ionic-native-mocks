@@ -1,4 +1,4 @@
-import { WheelSelector } from '@ionic-native/wheel-selector';
+import { WheelSelector } from '@ionic-native/wheel-selector/ngx';
 
 export interface WheelSelectorItem {
     description?: string;

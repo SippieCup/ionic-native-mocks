@@ -1,4 +1,4 @@
-import { HeaderColor } from '@ionic-native/header-color';
+import { HeaderColor } from '@ionic-native/header-color/ngx';
 
 export class HeaderColorMock extends HeaderColor {
     /**

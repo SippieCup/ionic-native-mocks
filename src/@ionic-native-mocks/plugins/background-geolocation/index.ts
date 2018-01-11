@@ -1,4 +1,4 @@
-import { BackgroundGeolocation } from '@ionic-native/background-geolocation';
+import { BackgroundGeolocation } from '@ionic-native/background-geolocation/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 

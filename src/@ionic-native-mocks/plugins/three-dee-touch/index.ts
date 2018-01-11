@@ -1,4 +1,4 @@
-import { ThreeDeeTouch } from '@ionic-native/three-dee-touch';
+import { ThreeDeeTouch } from '@ionic-native/three-dee-touch/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 
